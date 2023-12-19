@@ -64,25 +64,39 @@ This is how you push your remote branch.
 **Step 10 - Go to github.com and Click Compare and Pull Request**
 
 ![Step 10 - Go to github.com and Click Compare and Pull Request](https://github.com/LovHurt/HowToUseGitTerminal/assets/137903815/be1d15c1-20c7-4723-8777-f9c627300339)
-
+After you push your work to your remote branch you can create a pull request to update the origin master.
 
 **Step 11 - Open Pull Request with Comment**
 
 ![Step 11 - Open Pull Request with Comment](https://github.com/LovHurt/HowToUseGitTerminal/assets/137903815/41c3922c-f710-448b-9174-13ef3152bcf8)
 
-Now master can merge your push!
+If the request is merged, it means that the transaction has been successfully completed. Well Done!
 
 
 **Additional Step 12 - Switch to Master**
-
 ![Additional Step 12 - Switch to Master](https://github.com/LovHurt/HowToUseGitTerminal/assets/137903815/06c182d9-ee82-46d0-aaa9-04b38c34d457)
+If you want to keep using terminal, you are on the right track! Now you switched to the master(but it is local be careful!).
 
 
 **Additional Step 13 - Merge It!!**
+![Additional Step 13 - Merge It!!](https://github.com/LovHurt/HowToUseGitTerminal/assets/137903815/d7210bb1-648d-4da1-88d2-2479e1d76312)
+You have merged your code with the master(local).
 
-![Additional Step 13 - Merge It!!](https://github.com/LovHurt/HowToUseGitTerminal/assets/137903815/0eec608b-ad49-4346-85ab-353061d650f4)
 
-If you have the permission, you can merge it by using terminal without using step 9 and 10.
+**Additional Step 14 - Add Your Change To Staging Area**
+![Additional Step 14](https://github.com/LovHurt/HowToUseGitTerminal/assets/137903815/957561cc-ad3a-4392-899b-aeade0f4dd7e)
+You put your changes to staging area.
+
+
+**Additional Step 15 - Commit It!**
+![Additional Step 15](https://github.com/LovHurt/HowToUseGitTerminal/assets/137903815/1ba44888-391a-441c-af29-147261df8e0d)
+You have committed them, nice work buddy!
+
+
+**Additional Step 16 - Push it To The Origin Master(Or Limit?)!**
+![Additional Step 16](https://github.com/LovHurt/HowToUseGitTerminal/assets/137903815/6e15f382-76af-4134-be10-af44cdf99cee)
+Now is the time. Now you managed to push your changes to ORIGIN MASTER(which is remote).
+
 
 
 Thank you for reading!
